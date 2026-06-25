@@ -15,7 +15,7 @@
 | **Written On** | June 24, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/dans-les-yeux-dun-autre/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Obtain a Music License for Dans Les Yeux D'un Autre](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/dans-les-yeux-dun-autre/) |
+| **Get License** | [Get License For Dans Les Yeux D'un Autre](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/dans-les-yeux-dun-autre/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> Ne cherche pas l'amour dans les yeux d'un autre
+> Cette nuit nous appartient, oublions les autres
+> On se laisse porter par la vibe et la chaleur
+> Laisse-moi être le seul gardien de ton cœur
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
