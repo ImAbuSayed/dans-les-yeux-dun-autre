@@ -15,7 +15,7 @@
 | **Written On** | June 24, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/dans-les-yeux-dun-autre/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Obtain a Music License for Dans Les Yeux D'un Autre](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/dans-les-yeux-dun-autre/) |
+| **Get License** | [Request Licensing for Dans Les Yeux D'un Autre](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/dans-les-yeux-dun-autre/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -39,6 +39,12 @@
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
+
+---
+
+## 🔗 Song Links
+
+- [Telegram](https://t.me/AbuSayedMusic/4355)
 
 ---
 
